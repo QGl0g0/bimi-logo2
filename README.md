@@ -1,2 +1,1 @@
-# bimi-logo
-Email logo
+
